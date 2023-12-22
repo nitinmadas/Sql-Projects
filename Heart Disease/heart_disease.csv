@@ -1,0 +1,104 @@
+id,age,name,sex,chest_pain,rest_bps,cholesterol,restecg,thalassaemia_test,heart_disease
+1,67,"Braund, Mr. Owen Harris",Male,Mild,120,354,Abnormal,163,Yes
+2,67,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Female,Mild,130,330,Normal,169,No
+3,62,"Heikkinen, Miss. Laina",Female,Mild,120,267,Abnormal,99,No
+4,63,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Female,High,120,263,Abnormal,173,Yes
+5,53,"Allen, Mr. William Henry",Male,Severe,130,197,Normal,152,Yes
+6,56,"Moran, Mr. James",Male,Mild,150,276,Normal,112,No
+7,48,"McCarthy, Mr. Timothy J",Male,Severe,112,230,Normal,165,No
+8,58,"Palsson, Master. Gosta Leonard",Male,Severe,180,274,Normal,150,No
+9,58,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Female,Mild,170,326,Normal,140,No
+10,60,"Nasser, Mrs. Nicholas (Adele Achem)",Female,Mild,110,239,Normal,142,No
+11,40,"Sandstrom, Miss. Marguerite Rut",Female,Severe,140,185,Normal,155,No
+12,60,"Bonnell, Miss. Elizabeth",Female,Extreme,110,211,Normal,144,Yes
+13,64,"Saundercock, Mr. William Henry",Male,High,160,302,Abnormal,162,Yes
+14,43,"Andersson, Mr. Anders Johan",Male,Severe,150,231,Abnormal,147,No
+15,57,"Vestrom, Miss. Hulda Amanda Adolfina",Female,Severe,140,233,Abnormal,163,No
+16,55,"Hewlett, Mrs. (Mary D Kingcome) ",Female,Severe,135,304,Abnormal,170,Yes
+17,65,"Rice, Master. Eugene",Male,High,130,266,Abnormal,171,Yes
+18,61,"Williams, Mr. Charles Eugene",Male,Severe,150,168,Abnormal,174,Yes
+19,58,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Female,Severe,140,321,Normal,182,Yes
+20,50,"Masselmani, Mrs. Fatima",Female,High,105,198,Abnormal,168,Yes
+21,44,"Fynney, Mr. Joseph J",Male,Severe,140,335,Abnormal,158,No
+22,60,"Beesley, Mr. Lawrence",Male,Mild,110,167,Normal,114,No
+23,54,"McGowan, Miss. Anna ""Annie""",Female,Mild,145,307,Normal,146,No
+24,50,"Sloper, Mr. William Thompson",Male,Mild,140,192,Abnormal,148,Yes
+25,41,"Palsson, Miss. Torborg Danira",Female,Severe,128,229,Normal,150,No
+26,51,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Female,Mild,150,225,Normal,114,No
+27,58,"Emir, Mr. Farred Chehab",Male,Mild,132,341,Normal,136,No
+28,54,"Fortune, Mr. Charles Alexander",Male,Mild,110,172,Normal,158,No
+29,60,"O'Dwyer, Miss. Ellen ""Nellie""",Female,High,120,284,Normal,160,No
+30,60,"Todoroff, Mr. Lalio",Male,High,120,236,Abnormal,178,Yes
+31,59,"Uruchurtu, Don. Manuel E",Male,Mild,145,282,Normal,142,No
+32,46,"Spencer, Mrs. William Augustus (Marie Eugenie)",Female,Mild,118,219,Abnormal,140,No
+33,67,"Glynn, Miss. Mary Agatha",Female,Severe,120,219,Abnormal,158,Yes
+34,62,"Wheadon, Mr. Edward H",Male,High,140,294,Normal,153,Yes
+35,65,"Meyer, Mr. Edgar Joseph",Male,Extreme,145,233,Normal,150,Yes
+36,44,"Holverson, Mr. Alexander Oskar",Male,Mild,160,164,Normal,145,No
+37,60,"Mamee, Mr. Hanna",Male,Mild,130,206,Normal,132,No
+38,58,"Cann, Mr. Ernest Charles",Male,Severe,150,212,Abnormal,157,Yes
+39,68,"Vander Planke, Miss. Augusta Maria",Female,Extreme,150,283,Normal,162,Yes
+40,62,"Nicola-Yarred, Miss. Jamila",Female,Severe,130,256,Normal,142,No
+41,52,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Female,Extreme,140,199,Abnormal,178,Yes
+42,59,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Female,Mild,110,248,Normal,158,No
+43,60,"Kraeff, Mr. Theodor",Male,Mild,124,266,Normal,109,No
+44,49,"Laroche, Miss. Simonne Marie Anne Andree",Female,Mild,120,177,Abnormal,140,Yes
+45,59,"Devaney, Miss. Margaret Delia",Female,High,110,229,Abnormal,168,No
+46,57,"Rogers, Mr. William John",Male,Mild,150,243,Normal,128,No
+47,61,"Lennon, Mr. Denis",Male,Mild,125,258,Normal,141,No
+48,39,"O'Driscoll, Miss. Bridget",Female,Mild,120,260,Abnormal,140,No
+49,61,"Samaan, Mr. Youssef",Male,Severe,120,188,Abnormal,139,No
+50,56,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Female,Mild,150,258,Normal,157,No
+51,43,"Panula, Master. Juha Niilo",Male,Mild,150,247,Abnormal,171,Yes
+52,63,"Nosworthy, Mr. Richard Cater",Male,Severe,128,216,Normal,115,Yes
+53,37,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Female,Severe,130,256,Normal,149,Yes
+54,41,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Female,Severe,132,224,Normal,173,No
+55,56,"Ostby, Mr. Engelhart Cornelius",Male,Extreme,140,239,Abnormal,151,Yes
+56,57,"Woolner, Mr. Hugh",Male,Severe,125,273,Normal,152,Yes
+57,57,"Rugg, Miss. Emily",Female,Mild,140,239,Abnormal,160,Yes
+58,56,"Novel, Mr. Mansouer",Male,Severe,130,233,Abnormal,179,Yes
+59,44,"West, Miss. Constance Mirium",Female,Mild,110,197,Normal,177,No
+60,52,"Goodwin, Master. William Frederick",Male,Mild,132,353,Abnormal,132,No
+61,57,"Sirayanian, Mr. Orsen",Male,Mild,140,268,Normal,160,No
+62,54,"Icard, Miss. Amelie",Female,Severe,130,275,Abnormal,139,Yes
+63,48,"Harris, Mr. Henry Birkhardt",Male,Severe,130,250,Abnormal,187,Yes
+64,49,"Skoog, Master. Harald",Male,Severe,140,235,Normal,180,Yes
+65,64,"Stewart, Mr. Albert A",Male,Mild,138,234,Normal,160,Yes
+66,58,"Moubarek, Master. Gerios",Male,Mild,135,234,Abnormal,161,Yes
+67,50,"Nye, Mrs. (Elizabeth Ramell)",Female,Severe,172,199,Abnormal,162,Yes
+68,58,"Crease, Mr. Ernest James",Male,High,120,325,Abnormal,172,Yes
+69,66,"Andersson, Miss. Erna Alexandra",Female,Mild,125,254,Abnormal,163,No
+70,43,"Kink, Mr. Vincenz",Male,Mild,112,290,Normal,153,No
+71,69,"Jenkin, Mr. Stephen Curnow",Male,Mild,130,254,Normal,147,No
+72,59,"Goodwin, Miss. Lillian Amy",Female,Mild,120,188,Abnormal,113,No
+73,44,"Hood, Mr. Ambrose Jr",Male,Severe,150,232,Normal,165,Yes
+74,42,"Chronopoulos, Mr. Apostolos",Male,Severe,142,177,Normal,160,Yes
+75,61,"Bing, Mr. Lee",Male,High,130,204,Normal,172,Yes
+76,40,"Moen, Mr. Sigurd Hansen",Male,Mild,128,216,Normal,131,No
+77,71,"Staneff, Mr. Ivan",Male,Severe,140,417,Normal,157,Yes
+78,59,"Moutal, Mr. Rahamin Haim",Male,Severe,138,257,Normal,156,Yes
+79,51,"Caldwell, Master. Alden Gates",Male,Mild,140,177,Abnormal,162,No
+80,65,"Dowdell, Miss. Elizabeth",Female,Mild,104,208,Normal,148,Yes
+81,53,"Waelens, Mr. Achille",Male,Mild,120,229,Normal,129,No
+82,41,"Sheerlinck, Mr. Jan Baptist",Male,Severe,120,340,Abnormal,172,Yes
+83,65,"McDermott, Miss. Brigdet Delia",Female,Mild,130,264,Normal,143,Yes
+84,44,"Carrau, Mr. Francisco M",Male,Mild,140,226,Abnormal,178,Yes
+85,54,"Ilett, Miss. Bertha",Female,Severe,160,360,Normal,151,Yes
+86,51,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Female,High,130,245,Normal,180,Yes
+87,46,"Ford, Mr. William Neal",Male,Severe,155,269,Abnormal,148,Yes
+88,54,"Slocovski, Mr. Selman Francis",Male,High,130,219,Normal,188,Yes
+89,54,"Fortune, Miss. Mabel Helen",Female,Mild,150,270,Normal,111,No
+90,65,"Celotti, Mr. Francesco",Male,Severe,110,175,Abnormal,123,Yes
+91,65,"Christmann, Mr. Emil",Male,Mild,160,286,Normal,108,No
+92,51,"Andreasson, Mr. Paul Edvin",Male,Mild,117,230,Abnormal,160,No
+93,48,"Chaffee, Mr. Herbert Fuller",Male,Severe,150,243,Abnormal,137,Yes
+94,45,"Dean, Mr. Bertram Frank",Male,Mild,120,302,Normal,151,Yes
+95,53,"Coxon, Mr. Daniel",Male,Mild,130,253,Abnormal,144,No
+96,39,"Shorney, Mr. Charles Joseph",Male,Extreme,125,213,Normal,125,Yes
+97,52,"Goldschmidt, Mr. George B",Male,Mild,130,305,Abnormal,142,No
+98,44,"Greenfield, Mr. William Bertram",Male,Mild,125,249,Normal,144,No
+99,47,"Doling, Mrs. John T (Ada Julia Bone)",Female,Severe,140,308,Normal,142,Yes
+100,53,"Kantor, Mr. Sinai",Male,Mild,120,177,Normal,120,No
+101,53,"Graham, Miss. Margaret Edith",Female,Extreme,150,226,Abnormal,114,Yes
+102,51,"Johnston, Miss. Catherine Helen ""Carrie""",Female,Mild,140,203,Normal,155,No
+103,66,"Behr, Mr. Karl Howell",Male,Mild,128,255,Abnormal,161,No

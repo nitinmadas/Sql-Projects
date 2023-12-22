@@ -1,0 +1,10 @@
+1. Display the last 10 records						 
+2. Display age, chest_pain, and heart_disease.				
+3. What is the number of observations with heart disease?
+4. Find the average cholesterol level based on the value of chest pain.	
+5. Find the maximum age wrt sex and chest pain values.
+6. Find the minimum cholesterol level wrt chest pain types having restecg as abnormal.
+7. Display the data in descending order of thalassaemia_test.
+8. Select observations where the cholesterol value is greater than the average cholesterol value.
+9. Find average of thalassaemia_test
+10.Find average of thalassaemia_test wrt sex, chest_pain, restecg, heart_disease. Display only those combinations where the value of group average thalassaemia_test is greater than average thalassaemia_test col.
