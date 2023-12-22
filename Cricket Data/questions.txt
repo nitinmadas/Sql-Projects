@@ -1,0 +1,16 @@
+
+
+1.	Print first 20 entries  from the dataset
+2.	Print player name and country for first 20 entries in the data set
+3.	Print entries of Indian players
+4.	Print entries for Australian players
+5.	Fetch players whose Sr is greater than 90
+6.	Fetch names of india players with Sr above 85
+7.	Fetch players from south africa, west indies and pakistan
+8.	Fetch players from countries except india
+9.	Find average sr in the data set
+10.	Find players with min and max sr, runs, matches played
+11.	Fetch table in order of runs scored in acs and desc order
+12.	Fetch table in order of country and runs in desc order
+13.	Fetch players having more runs than the total average of runs in the table
+14.	Print the country names from the data set.
