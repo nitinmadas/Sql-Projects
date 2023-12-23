@@ -1,0 +1,16 @@
+1.Display title and boxoffice collection.
+2.Display title and boxoffice collection for IMBD score greater than 5.
+3.Display title and boxoffice collection for runtime greater than 2 hours.
+4.Find total number of movies wrt language.
+5.Find total number of movies wrt genre and native.
+6.Which movie has the highest and the lowest IMDB rating?
+7.Find the genre with the highest number of movies.
+8.Find the top 5 and bottom 5 movies based on their collection.
+9.Find the average IMDB score for each genre. 
+10.Find the movies starting with the title "The".
+11.Find the movies ending with the title 'man'.
+12.Find the movies having either 'story', 'man' or 'love' in the title.
+13.Find the movies ending with either 'story', 'man' or 'love' in the title.
+14.Find the movies where the native is English and Mandarin.
+15.Find movies with less than 2 hours.
+16.Find movies with less than 2 hours with an IMDB score greater than the average IMDB score.
