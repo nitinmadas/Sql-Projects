@@ -1,0 +1,15 @@
+1. Find the first name, last name, and salary of the employees who have a higher salary than the employee with last_name='Bell'.
+
+2. Find the first name, last name, and salary of the employees who have a higher salary than the employee with last_name='Bell' and display in ascending order wrt f_name.
+
+3. Write a query to find the emp id, first name, last name, and salary of the employees who are managers.
+
+4. Write a query to find the emp id, first name, last name, phone, and salary of the employees whose salary is greater than the average salary.
+
+5. Write a query to find the employee who earns the same salary as the minimum salary of all departments.
+
+6. Write a query to find the first_name, last_name, and salary of the employees who earn more than the average salary and work in sales departments.
+
+7. Write a query to find the emp id, first name, last name, and salary of the employees who earn a salary that is higher than the salary of all the Shipping Clerk. Sort the results of the salary of the lowest to highest.
+
+8. Display the employee ID, first name, last name, and department names of all employees.
