@@ -1,0 +1,22 @@
+1. display first and last 10 records.
+2. what are the distinct car bodies?
+3. find top 5 and bottom 5 cars wrt their price
+4. Find number of cars in each car body type.
+5. arrange car body types in descending order wrt no. of cars in each categories.
+6. arrange car body types in descending order wrt no. of cars in each categories having atleast 15 entries.
+7. Find total number of observations by aggregating data using carbody and fueltype.
+8. find the average carprice wrt different fuel types.
+9. find the average carprice wrt different bodytype.
+10. find the average carprice wrt different fuel types. name the category having highest average price.
+11. Add new column avgmil (float) as average value of city mil and highway mil.
+12. find average carlength for sedan type cars 
+13. find the average price wrt each car body type 
+ select avg (price) from cartable group by carbody 
+14. find the max of city milage and highway milage for cars wrt their fuel type 
+15. Display the records where carname start with 'a'.
+16. Display the records where carname end with 'a'.
+17. Display the records where carname start with 'n', third character is 's' and end with 'e'.
+18. Find the number of cars with carbody as sedan.
+
+
+
