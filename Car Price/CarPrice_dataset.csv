@@ -1,0 +1,100 @@
+car_ID,CarName,fueltype,doornumber,carbody,enginelocation,carlength,carwidth,carheight,horsepower,peakrpm,citympg,highwaympg,price
+1,alfa-romero giulia,gas,two,convertible,front,168.8,64.1,48.8,111,5000,21,27,13495
+2,alfa-romero stelvio,gas,two,convertible,front,168.8,64.1,48.8,111,5000,21,27,16500
+3,alfa-romero Quadrifoglio,gas,two,hatchback,front,171.2,65.5,52.4,154,5000,19,26,16500
+4,audi 100 ls,gas,four,sedan,front,176.6,66.2,54.3,102,5500,24,30,13950
+5,audi 100ls,gas,four,sedan,front,176.6,66.4,54.3,115,5500,18,22,17450
+6,audi fox,gas,two,sedan,front,177.3,66.3,53.1,110,5500,19,25,15250
+7,audi 100ls,gas,four,sedan,front,192.7,71.4,55.7,110,5500,19,25,17710
+8,audi 5000,gas,four,wagon,front,192.7,71.4,55.7,110,5500,19,25,18920
+9,audi 4000,gas,four,sedan,front,192.7,71.4,55.9,140,5500,17,20,23875
+10,audi 5000s (diesel),gas,two,hatchback,front,178.2,67.9,52,160,5500,16,22,17859.167
+11,bmw 320i,gas,two,sedan,front,176.8,64.8,54.3,101,5800,23,29,16430
+12,bmw 320i,gas,four,sedan,front,176.8,64.8,54.3,101,5800,23,29,16925
+13,bmw x1,gas,two,sedan,front,176.8,64.8,54.3,121,4250,21,28,20970
+14,bmw x3,gas,four,sedan,front,176.8,64.8,54.3,121,4250,21,28,21105
+15,bmw z4,gas,four,sedan,front,189,66.9,55.7,121,4250,20,25,24565
+16,bmw x4,gas,four,sedan,front,189,66.9,55.7,182,5400,16,22,30760
+17,bmw x5,gas,two,sedan,front,193.8,67.9,53.7,182,5400,16,22,41315
+18,bmw x3,gas,four,sedan,front,197,70.9,56.3,182,5400,15,20,36880
+19,chevrolet impala,gas,two,hatchback,front,141.1,60.3,53.2,48,5100,47,53,5151
+20,chevrolet monte carlo,gas,two,hatchback,front,155.9,63.6,52,70,5400,38,43,6295
+21,chevrolet vega 2300,gas,four,sedan,front,158.8,63.6,52,70,5400,38,43,6575
+22,dodge rampage,gas,two,hatchback,front,157.3,63.8,50.8,68,5500,37,41,5572
+23,dodge challenger se,gas,two,hatchback,front,157.3,63.8,50.8,68,5500,31,38,6377
+24,dodge d200,gas,two,hatchback,front,157.3,63.8,50.8,102,5500,24,30,7957
+25,dodge monaco (sw),gas,four,hatchback,front,157.3,63.8,50.6,68,5500,31,38,6229
+26,dodge colt hardtop,gas,four,sedan,front,157.3,63.8,50.6,68,5500,31,38,6692
+27,dodge colt (sw),gas,four,sedan,front,157.3,63.8,50.6,68,5500,31,38,7609
+28,dodge coronet custom,gas,two,sedan,front,157.3,63.8,50.6,102,5500,24,30,8558
+29,dodge dart custom,gas,four,wagon,front,174.6,64.6,59.8,88,5000,24,30,8921
+30,dodge coronet custom (sw),gas,two,hatchback,front,173.2,66.3,50.2,145,5000,19,24,12964
+31,honda civic,gas,two,hatchback,front,144.6,63.9,50.8,58,4800,49,54,6479
+32,honda civic cvcc,gas,two,hatchback,front,144.6,63.9,50.8,76,6000,31,38,6855
+33,honda civic,gas,two,hatchback,front,150,64,52.6,60,5500,38,42,5399
+34,honda accord cvcc,gas,two,hatchback,front,150,64,52.6,76,6000,30,34,6529
+35,honda civic cvcc,gas,two,hatchback,front,150,64,52.6,76,6000,30,34,7129
+36,honda accord lx,gas,four,sedan,front,163.4,64,54.5,76,6000,30,34,7295
+37,honda civic 1500 gl,gas,four,wagon,front,157.1,63.9,58.3,76,6000,30,34,7295
+38,honda accord,gas,two,hatchback,front,167.5,65.2,53.3,86,5800,27,33,7895
+39,honda civic 1300,gas,two,hatchback,front,167.5,65.2,53.3,86,5800,27,33,9095
+40,honda prelude,gas,four,sedan,front,175.4,65.2,54.1,86,5800,27,33,8845
+41,honda accord,gas,four,sedan,front,175.4,62.5,54.1,86,5800,27,33,10295
+42,honda civic,gas,four,sedan,front,175.4,65.2,54.1,101,5800,24,28,12945
+43,honda civic (auto),gas,two,sedan,front,169.1,66,51,100,5500,25,31,10345
+44,isuzu MU-X,gas,four,sedan,front,170.7,61.8,53.5,78,4800,24,29,6785
+45,isuzu D-Max ,gas,two,sedan,front,155.9,63.6,52,70,5400,38,43,8916.5
+46,isuzu D-Max V-Cross,gas,four,sedan,front,155.9,63.6,52,70,5400,38,43,8916.5
+47,isuzu D-Max ,gas,two,hatchback,front,172.6,65.2,51.4,90,5000,24,29,11048
+48,jaguar xj,gas,four,sedan,front,199.6,69.6,52.8,176,4750,15,19,32250
+49,jaguar xf,gas,four,sedan,front,199.6,69.6,52.8,176,4750,15,19,35550
+50,jaguar xk,gas,two,sedan,front,191.7,70.6,47.8,262,5000,13,17,36000
+51,maxda rx3,gas,two,hatchback,front,159.1,64.2,54.1,68,5000,30,31,5195
+52,maxda glc deluxe,gas,two,hatchback,front,159.1,64.2,54.1,68,5000,31,38,6095
+53,mazda rx2 coupe,gas,two,hatchback,front,159.1,64.2,54.1,68,5000,31,38,6795
+54,mazda rx-4,gas,four,sedan,front,166.8,64.2,54.1,68,5000,31,38,6695
+55,mazda glc deluxe,gas,four,sedan,front,166.8,64.2,54.1,68,5000,31,38,7395
+56,mazda 626,gas,two,hatchback,front,169,65.7,49.6,101,6000,17,23,10945
+57,mazda glc,gas,two,hatchback,front,169,65.7,49.6,101,6000,17,23,11845
+58,mazda rx-7 gs,gas,two,hatchback,front,169,65.7,49.6,101,6000,17,23,13645
+59,mazda glc 4,gas,two,hatchback,front,169,65.7,49.6,135,6000,16,23,15645
+60,mazda 626,gas,two,hatchback,front,177.8,66.5,53.7,84,4800,26,32,8845
+61,mazda glc custom l,gas,four,sedan,front,177.8,66.5,55.5,84,4800,26,32,8495
+62,mazda glc custom,gas,two,hatchback,front,177.8,66.5,53.7,84,4800,26,32,10595
+63,mazda rx-4,gas,four,sedan,front,177.8,66.5,55.5,84,4800,26,32,10245
+64,mazda glc deluxe,diesel,four,sedan,front,177.8,66.5,55.5,64,4650,36,42,10795
+65,mazda 626,gas,four,hatchback,front,177.8,66.5,55.5,84,4800,26,32,11245
+66,mazda glc,gas,four,sedan,front,175,66.1,54.4,120,5000,19,27,18280
+67,mazda rx-7 gs,diesel,four,sedan,front,175,66.1,54.4,72,4200,31,39,18344
+68,buick electra 225 custom,diesel,four,sedan,front,190.9,70.3,56.5,123,4350,22,25,25552
+69,buick century luxus (sw),diesel,four,wagon,front,190.9,70.3,58.7,123,4350,22,25,28248
+70,buick century,diesel,two,hardtop,front,187.5,70.3,54.9,123,4350,22,25,28176
+71,buick skyhawk,diesel,four,sedan,front,202.6,71.7,56.3,123,4350,22,25,31600
+72,buick opel isuzu deluxe,gas,four,sedan,front,202.6,71.7,56.5,155,4750,16,18,34184
+73,buick skylark,gas,two,convertible,front,180.3,70.5,50.8,155,4750,16,18,35056
+74,buick century special,gas,four,sedan,front,208.1,71.7,56.7,184,4500,14,16,40960
+75,buick regal sport coupe (turbo),gas,two,hardtop,front,199.2,72,55.4,184,4500,14,16,45400
+76,mercury cougar,gas,two,hatchback,front,178.4,68,54.8,175,5000,19,24,16503
+77,mitsubishi mirage,gas,two,hatchback,front,157.3,64.4,50.8,68,5500,37,41,5389
+78,mitsubishi lancer,gas,two,hatchback,front,157.3,64.4,50.8,68,5500,31,38,6189
+79,mitsubishi outlander,gas,two,hatchback,front,157.3,64.4,50.8,68,5500,31,38,6669
+80,mitsubishi g4,gas,two,hatchback,front,157.3,63.8,50.8,102,5500,24,30,7689
+81,mitsubishi mirage g4,gas,two,hatchback,front,173,65.4,49.4,116,5500,23,30,9959
+82,mitsubishi g4,gas,two,hatchback,front,173,65.4,49.4,88,5000,25,32,8499
+83,mitsubishi outlander,gas,two,hatchback,front,173.2,66.3,50.2,145,5000,19,24,12629
+84,mitsubishi g4,gas,two,hatchback,front,173.2,66.3,50.2,145,5000,19,24,14869
+85,mitsubishi mirage g4,gas,two,hatchback,front,173.2,66.3,50.2,145,5000,19,24,14489
+86,mitsubishi montero,gas,four,sedan,front,172.4,65.4,51.6,88,5000,25,32,6989
+87,mitsubishi pajero,gas,four,sedan,front,172.4,65.4,51.6,88,5000,25,32,8189
+88,mitsubishi outlander,gas,four,sedan,front,172.4,65.4,51.6,116,5500,23,30,9279
+89,mitsubishi mirage g4,gas,four,sedan,front,172.4,65.4,51.6,116,5500,23,30,9279
+90,Nissan versa,gas,two,sedan,front,165.3,63.8,54.5,69,5200,31,37,5499
+91,nissan gt-r,diesel,two,sedan,front,165.3,63.8,54.5,55,4800,45,50,7099
+92,nissan rogue,gas,two,sedan,front,165.3,63.8,54.5,69,5200,31,37,6649
+93,nissan latio,gas,four,sedan,front,165.3,63.8,54.5,69,5200,31,37,6849
+94,nissan titan,gas,four,wagon,front,170.2,63.8,53.5,69,5200,31,37,7349
+95,nissan leaf,gas,two,sedan,front,165.3,63.8,54.5,69,5200,31,37,7299
+96,nissan juke,gas,two,hatchback,front,165.6,63.8,53.3,69,5200,31,37,7799
+97,nissan latio,gas,four,sedan,front,165.3,63.8,54.5,69,5200,31,37,7499
+98,nissan note,gas,four,wagon,front,170.2,63.8,53.5,69,5200,31,37,7999
+99,nissan clipper,gas,two,hardtop,front,162.4,63.8,53.3,69,5200,31,37,8249
