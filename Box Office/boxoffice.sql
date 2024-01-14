@@ -72,6 +72,22 @@ SELECT title
 FROM boxoffice
 WHERE title RLIKE '.*(story|man|love)$';
 
+#14
+SELECT title,native
+FROM boxoffice
+WHERE native IN ('English', 'Mandarin');
+
+#15
+SELECT title,runtime
+FROM boxoffice
+WHERE runtime != '> 2 hrs';
+
+#16
+SELECT title,runtime, imdb_score
+FROM boxoffice
+WHERE runtime != '> 2 hrs' 
+	AND imdb_score > (SELECT AVG(imdb_score) 
+					FROM boxoffice);
 
 
                         
