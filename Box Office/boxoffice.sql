@@ -32,6 +32,46 @@ FROM boxoffice
 WHERE imdb_score = (SELECT MAX(imdb_score)
 						FROM boxoffice);
 		
+#7
+SELECT genre,COUNT(title) AS cnt
+FROM boxoffice
+GROUP BY 1
+ORDER BY cnt DESC
+LIMIT 1;
+
+#8a
+SELECT title,boxoffice FROM boxoffice
+ORDER BY boxoffice LIMIT 5;
+
+#8b
+SELECT title,boxoffice FROM boxoffice
+ORDER BY boxoffice DESC LIMIT 5;
+
+#9
+SELECT genre,round(AVG(imdb_score),2) AS avg_imdb_rating
+FROM boxoffice
+GROUP BY 1;
+
+#10
+SELECT title
+FROM boxoffice
+WHERE title RLIKE '^The.*';
+
+#11
+SELECT title
+FROM boxoffice
+WHERE title RLIKE '.*man$';
+
+#12
+SELECT title
+FROM boxoffice
+WHERE title RLIKE '.*(story|man|love).*';	
+
+#13
+SELECT title
+FROM boxoffice
+WHERE title RLIKE '.*(story|man|love)$';
+
 
 
                         
